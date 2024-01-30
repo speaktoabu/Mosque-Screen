@@ -1,84 +1,8 @@
-<p align="center">
-<strong>⚠️ Deprecation warning</strong>: This project has been superseded by <a href="https://github.com/MosqueOS/Mosque-Prayer-Display-Screen">Mosque Screen v2 by the MosqueOS Project</a>.<br/>
-This version will no longer receive any updates or be supported.
-</p>
-
-<p align="center">
-  <img src="https://github.com/Mosque-Screens/Mosque-Screen/raw/master/branding/logo-full.png" alt="Mosque Screen Logo" />
-</p>
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/374fbcfb-e2e9-451c-a970-310194e51027/deploy-status)](https://app.netlify.com/sites/mosque-screen/deploys)
-
-<a href="https://www.producthunt.com/posts/mosque-screens?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-mosque-screens" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=195453&theme=light" alt="Mosque Screens - World's first open source digital screen for Mosques 🕌 | Product Hunt Embed" style="width: 250px; height: 54px;" width="250px" height="54px" /></a>
 
 # Mosque Screens
 
-Build in association with [East London Mosque](https://www.eastlondonmosque.org.uk/).
 
-## Help make Mosque Screens sustainable
 
-The Mosque Screens project is a self funded project and does not have any financial income. As with all tech projects, there are costs which are incurred by the maintainers. These include: Servers, domains, databases etc.
-
-Please help by donating to the project via the following [link](https://donate.mosque.tech).
-
-You can donate as little or as much as you want, there is no obligation. Each penny will be used to pay for the running of these screens and keep it free for mosques around the world.
-
-<a href="https://donate.mosque.tech" align="center">
-  Donate
-</a>
-
-## Roadmap
-[View roadmap](https://github.com/Mosque-Screens/Mosque-Screen/projects/1?fullscreen=true)
-
-## Need help?
-
-Chat to the community on: https://discord.gg/CG7frj2
-
-Unfortunately, as this is a volunteer-led project we are unable to provide any support to resolve any issues for you. The code is all published in this repo, please look at error messages and speak to the community to see if anyone can help.
-
-## Contributors wall of fame
-
-This is a list of everyone that has contributed to the project, please make dua for everyone for their efforts. May Allah reward everyone. Ameen.
-
-**If you want to be part of this amazing group of people, make your contribution to the project!**
-
-*(This list is ordered alphabetically)*
-
-| Name | Role | Github |
-| ---- | ---- | ------ |
-| Al Habib Hassan | Software Engineer | https://github.com/alhabibhasan |
-| Didar Hussain  | Designer | - |
-| Dilwoar Hussain | Software Engineer | https://github.com/DilwoarH |
-| Fokrul Amin | IT Engineer | - |
-| Ikbal Hussain | Interaction Designer | - |
-| Mahmud Hussain | Software Engineer | https://github.com/MahmudH |
-| Mohamed Abdisalam | Product Management | - |
-| Moiz Qureshi | Software Engineer | https://github.com/moiz-qureshi |
-| Ridhwaan-ur Rahman | Business Intelligence | - |
-| Usamah K Ward | Business Intelligence | - |
-
-## Current customers / examples
-1. Demo (https://screen.mosque.tech/)
-2. East London Markazi (UK 🇬🇧) (https://markazi.mosque.tech/)
-3. Beacon Tree Masjid (UK 🇬🇧) (https://btm.mosque.tech/)
-4. East London Mosque (UK 🇬🇧) (https://elm.mosque.tech/)
-5. Masjid Al-Rahman (USA 🇺🇸) (https://display.masjidalrahman.com/)
-6. Redbridge Islamic Centre (UK 🇬🇧) (https://redbridge.mosque.tech/) [Single View Mode]
-7. Jami Masjid & Islamic Centre (UK 🇬🇧) (https://jmic.mosque.tech/)
-8. Essex Jamme Mosque (UK 🇬🇧) (https://essex.mosque.tech/)
-9. Westferry Mosque (UK 🇬🇧) (https://westferry.mosque.tech/)
-10. Noor Al Hadi Mosque (UK 🇬🇧) (https://noor-al-hadi.mosque.tech/)
-11. Masjid Al Bayan Center (UK 🇬🇧) (https://albayan.mosque.tech/)
-12. Government Digital Service (UK 🇬🇧) (https://gds.mosque.tech/)
-13. Masjid as Salam (New Zealand 🇳🇿) (https://display.masjidassalam.co.nz/)
-14. Brixton Masjid (UK 🇬🇧) (https://brixton-masjid.mosque.tech/)
-14. Poplar Masjid (UK 🇬🇧) (https://poplar.mosque.tech/)
-15. Dulwich Islamic Centre (UK 🇬🇧) (https://dulwich.mosque.tech/)
-
-(If you want a **your-mosque.mosque.tech** domain, please contact the team via the support channel)
-
-## Easy one click deployment
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Mosque-Screens/Mosque-Screen)
 
 ## Using Google Sheets to store your data
 
